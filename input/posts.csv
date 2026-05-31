@@ -1,0 +1,101 @@
+PostID,UserID,Content,Timestamp,Likes,Retweets,Hashtags,SentimentScore
+101,10,This app keeps crashing. So annoying.,2026-05-24 20:00:22,33,9,"#fail,#mood",0.81
+102,8,Such a smooth interface!,2026-05-23 19:00:22,150,13,"#design,#UX,#tech",0.21
+103,9,I’m impressed with the speed.,2026-05-23 03:00:22,8,33,"#social,#love,#fail",-0.68
+104,3,Loving the new update!,2026-05-24 15:00:22,123,43,#bug,0.04
+105,8,Needs dark mode ASAP!,2026-05-24 05:00:22,23,46,#UX,0.63
+106,9,Just another day...,2026-05-24 07:00:22,136,37,"#cleanUI,#AI",0.78
+107,9,Great performance on mobile.,2026-05-23 10:00:22,9,21,"#love,#mood",-0.35
+108,6,Such a smooth interface!,2026-05-29 15:00:22,23,15,#mood,0.75
+109,2,Can’t stop using it!,2026-05-26 02:00:22,16,7,"#cleanUI,#love",0.19
+110,10,Needs dark mode ASAP!,2026-05-24 02:00:22,141,13,"#love,#social,#cleanUI",-0.49
+111,1,Can’t stop using it!,2026-05-21 20:00:22,28,2,"#fail,#bug",-0.92
+112,10,This app keeps crashing. So annoying.,2026-05-23 23:00:22,83,10,#UX,-0.19
+113,7,Just another day...,2026-05-30 07:00:22,103,29,#tech,0.66
+114,7,Loving the new update!,2026-05-23 03:00:22,145,7,#social,-0.79
+115,2,Loving the new update!,2026-05-28 16:00:22,11,1,#bug,-0.88
+116,9,Such a smooth interface!,2026-05-28 20:00:22,136,6,#tech,-0.1
+117,8,Such a smooth interface!,2026-05-27 06:00:22,92,26,#cleanUI,-0.52
+118,4,Can’t stop using it!,2026-05-27 23:00:22,117,15,#UX,-0.18
+119,10,Can’t stop using it!,2026-05-30 01:00:22,79,37,"#AI,#tech,#fail",-0.17
+120,2,Such a smooth interface!,2026-05-29 06:00:22,5,28,"#design,#tech,#cleanUI",0.92
+121,2,Such a smooth interface!,2026-05-29 09:00:22,90,36,"#UX,#social",-0.71
+122,4,Absolutely love the UX!,2026-05-21 11:00:22,56,2,"#AI,#social",0.04
+123,10,Absolutely love the UX!,2026-05-28 09:00:22,104,5,"#tech,#love,#social",-0.09
+124,5,Needs dark mode ASAP!,2026-05-26 21:00:22,10,2,"#UX,#tech",-0.47
+125,9,This app keeps crashing. So annoying.,2026-05-27 07:00:22,25,12,"#AI,#social",-0.33
+126,3,Just another day...,2026-05-25 17:00:22,31,15,"#design,#mood,#fail",-0.04
+127,10,Worst experience ever.,2026-05-30 08:00:22,41,15,"#fail,#mood,#AI",-0.25
+128,8,Great performance on mobile.,2026-05-25 10:00:22,103,39,"#love,#social,#tech",-0.55
+129,1,Worst experience ever.,2026-05-21 21:00:22,39,50,"#mood,#UX",-0.91
+130,9,Such a smooth interface!,2026-05-25 01:00:22,63,38,"#design,#social,#AI",-0.34
+131,2,Loving the new update!,2026-05-28 12:00:22,26,23,"#tech,#bug,#love",-0.78
+132,3,Absolutely love the UX!,2026-05-21 02:00:22,118,34,"#fail,#love,#cleanUI",-0.86
+133,3,Loving the new update!,2026-05-26 09:00:22,103,42,"#design,#tech",-0.9
+134,6,Just another day...,2026-05-22 06:00:22,38,11,"#fail,#UX,#cleanUI",-0.26
+135,1,This app keeps crashing. So annoying.,2026-05-20 20:00:22,57,6,"#social,#love,#fail",-0.91
+136,4,Needs dark mode ASAP!,2026-05-30 14:00:22,23,44,#AI,0.55
+137,6,I’m impressed with the speed.,2026-05-23 00:00:22,150,27,"#social,#bug,#UX",0.52
+138,7,Absolutely love the UX!,2026-05-24 19:00:22,22,27,"#bug,#fail,#AI",-0.61
+139,3,This app keeps crashing. So annoying.,2026-05-29 07:00:22,27,18,#design,0.36
+140,10,This app keeps crashing. So annoying.,2026-05-28 12:00:22,43,15,"#AI,#cleanUI,#fail",0.12
+141,9,Loving the new update!,2026-05-25 07:00:22,6,50,"#love,#cleanUI",-0.2
+142,4,Needs dark mode ASAP!,2026-05-30 09:00:22,51,39,"#fail,#bug,#design",0.09
+143,5,This app keeps crashing. So annoying.,2026-05-21 20:00:22,108,23,"#cleanUI,#AI,#bug",0.43
+144,3,Loving the new update!,2026-05-24 00:00:22,103,36,"#fail,#AI,#love",0.32
+145,7,Loving the new update!,2026-05-28 16:00:22,19,18,"#love,#cleanUI,#mood",0.19
+146,8,Worst experience ever.,2026-05-22 15:00:22,147,13,"#bug,#AI,#social",0.66
+147,6,Loving the new update!,2026-05-20 20:00:22,50,32,#design,-0.26
+148,4,I’m impressed with the speed.,2026-05-23 07:00:22,135,37,"#fail,#social,#cleanUI",0.94
+149,4,Just another day...,2026-05-21 10:00:22,40,40,"#social,#cleanUI,#AI",0.25
+150,1,Such a smooth interface!,2026-05-25 18:00:22,127,0,"#mood,#tech",0.61
+151,7,Just another day...,2026-05-23 14:00:22,2,47,#design,0.6
+152,7,Just another day...,2026-05-29 15:00:22,115,18,#fail,-0.72
+153,3,This app keeps crashing. So annoying.,2026-05-30 08:00:22,0,16,"#cleanUI,#UX",-0.64
+154,7,Worst experience ever.,2026-05-26 10:00:22,74,39,"#AI,#UX",0.87
+155,8,Great performance on mobile.,2026-05-21 17:00:22,54,22,"#AI,#love",0.34
+156,9,This app keeps crashing. So annoying.,2026-05-24 05:00:22,95,22,#bug,-0.62
+157,6,Loving the new update!,2026-05-28 17:00:22,72,7,"#love,#bug",-0.14
+158,8,Loving the new update!,2026-05-25 16:00:22,108,35,"#love,#mood",0.02
+159,2,Just another day...,2026-05-29 06:00:22,7,36,"#bug,#design,#tech",-0.71
+160,3,Needs dark mode ASAP!,2026-05-22 04:00:22,32,29,"#UX,#AI",0.41
+161,9,I’m impressed with the speed.,2026-05-26 06:00:22,39,19,"#cleanUI,#love,#design",0.15
+162,5,Can’t stop using it!,2026-05-26 22:00:22,122,25,"#fail,#cleanUI,#bug",0.13
+163,3,Great performance on mobile.,2026-05-29 19:00:22,14,23,"#social,#AI,#bug",-0.26
+164,10,This app keeps crashing. So annoying.,2026-05-23 19:00:22,105,24,#AI,-0.31
+165,9,Can’t stop using it!,2026-05-30 12:00:22,59,20,#bug,-0.59
+166,7,Just another day...,2026-05-21 23:00:22,120,3,"#love,#tech,#social",0.48
+167,2,Worst experience ever.,2026-05-26 07:00:22,62,1,#cleanUI,-0.77
+168,10,Worst experience ever.,2026-05-23 08:00:22,94,25,#UX,0.46
+169,5,Worst experience ever.,2026-05-28 11:00:22,40,13,#tech,0.05
+170,5,Worst experience ever.,2026-05-27 19:00:22,139,39,"#tech,#love",0.49
+171,1,Needs dark mode ASAP!,2026-05-28 22:00:22,109,42,"#love,#UX,#fail",-0.62
+172,10,Needs dark mode ASAP!,2026-05-26 04:00:22,43,15,"#AI,#design,#love",0.38
+173,5,Absolutely love the UX!,2026-05-27 13:00:22,47,10,"#UX,#mood",-0.94
+174,1,Needs dark mode ASAP!,2026-05-25 20:00:22,130,29,"#fail,#bug,#mood",-0.19
+175,5,Just another day...,2026-05-26 13:00:22,23,45,"#tech,#love,#bug",-0.29
+176,7,Just another day...,2026-05-22 00:00:22,37,23,"#tech,#bug",0.16
+177,9,Great performance on mobile.,2026-05-22 21:00:22,118,35,"#love,#cleanUI,#tech",-0.91
+178,5,Just another day...,2026-05-23 05:00:22,97,14,"#bug,#fail",-0.42
+179,6,Loving the new update!,2026-05-27 23:00:22,64,11,#bug,-0.41
+180,6,This app keeps crashing. So annoying.,2026-05-20 19:00:22,141,10,"#fail,#UX",0.78
+181,6,Such a smooth interface!,2026-05-29 15:00:22,66,32,#love,0.23
+182,8,Great performance on mobile.,2026-05-21 18:00:22,112,16,"#mood,#fail,#cleanUI",-0.6
+183,2,This app keeps crashing. So annoying.,2026-05-21 05:00:22,27,9,#design,0.02
+184,5,Worst experience ever.,2026-05-29 00:00:22,77,0,"#design,#AI,#cleanUI",0.44
+185,10,Can’t stop using it!,2026-05-23 23:00:22,106,32,"#fail,#cleanUI",0.6
+186,5,Just another day...,2026-05-25 00:00:22,10,0,#UX,0.25
+187,2,Worst experience ever.,2026-05-23 13:00:22,54,27,"#AI,#bug",0.91
+188,3,Loving the new update!,2026-05-25 01:00:22,123,41,"#AI,#cleanUI",0.38
+189,1,I’m impressed with the speed.,2026-05-24 16:00:22,139,35,"#fail,#design,#UX",0.96
+190,7,Great performance on mobile.,2026-05-29 23:00:22,93,5,#UX,-0.84
+191,6,Needs dark mode ASAP!,2026-05-23 01:00:22,6,15,"#cleanUI,#AI",0.59
+192,6,Such a smooth interface!,2026-05-23 22:00:22,5,37,"#fail,#UX",0.47
+193,1,Just another day...,2026-05-25 14:00:22,137,40,"#AI,#tech,#UX",0.51
+194,8,This app keeps crashing. So annoying.,2026-05-29 04:00:22,129,27,#cleanUI,0.16
+195,6,Worst experience ever.,2026-05-24 19:00:22,53,6,"#cleanUI,#love",0.39
+196,8,Loving the new update!,2026-05-28 12:00:22,122,19,"#social,#love,#UX",0.16
+197,8,Worst experience ever.,2026-05-23 23:00:22,43,44,#social,0.23
+198,1,Such a smooth interface!,2026-05-27 02:00:22,78,41,#fail,0.37
+199,6,Worst experience ever.,2026-05-22 23:00:22,99,17,"#design,#love",-0.14
+200,5,Such a smooth interface!,2026-05-26 03:00:22,104,49,"#design,#love,#cleanUI",-0.14
